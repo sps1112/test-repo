@@ -3,9 +3,9 @@
 int main()
 {
     int a, b, c;
-    a = 2;
-    b = 3;
+    a = 3;
+    b = 4;
     c = a + b;
-    printf("the sum is %d", c);
+    printf("The Sum is %d\n", c);
     return 0;
 }
