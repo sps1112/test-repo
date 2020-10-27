@@ -1,2 +1,1 @@
-abc
-xyz
+Random text file
