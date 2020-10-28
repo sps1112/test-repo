@@ -2,12 +2,12 @@
 
 int main()
 {
-   int a, b, c, d;
+   int a, b, c, d, e;
    a = 2;
    b = 3;
    c = 4;
-   d = a * (b - c);
-   std::cout << "Final Value is " << d << "\n"
-             << std::endl;
+   e = 5;
+   d = a * (b - c) + e;
+   std::cout << "Final Value is " << d << "\n";
    return 0;
 }
