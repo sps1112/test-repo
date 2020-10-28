@@ -3,7 +3,7 @@
 int main()
 {
    int a, b, c, d, e;
-   a = 2;
+   a = 6;
    b = 3;
    c = 4;
    e = 5;
