@@ -4,7 +4,7 @@ int main()
 {
    int a, b, c, d, e;
    a = 6;
-   b = 3;
+   b = 5;
    c = 7;
    e = 5;
    d = a * (b - c) + e;
