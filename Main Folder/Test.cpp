@@ -8,6 +8,7 @@ int main()
    c = 7;
    e = 5;
    d = a * (b - c) + e;
-   std::cout << "Final Value is " << d << "\n";
+   std::cout << "Final Value is " << d << "\n"
+             << std::endl;
    return 0;
 }
