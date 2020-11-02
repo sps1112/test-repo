@@ -1,0 +1,3 @@
+A new text file
+new line being added to that file
+Thir line
