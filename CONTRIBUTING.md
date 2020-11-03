@@ -1,6 +1,6 @@
-#Contributing Headline
+# Contributing Headline
 
-#How to Contribute:-
+# How to Contribute:-
 
 * Fork The Repo
 * Branch to a Feature Branch
