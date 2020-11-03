@@ -2,6 +2,6 @@
 
 Brief description of the issue
 
-## Possilble Solution
+## Possible Solution
 
-Possilble solutions related to that issue 
+List Possible solutions related to that issue 
