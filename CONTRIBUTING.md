@@ -11,4 +11,4 @@
 * Make a Pull Request to your master branch
 * Make final PR to original master branch
 
-:tree:
+:gun:
